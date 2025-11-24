@@ -1,8 +1,8 @@
 # Accounts-Data-Engineering
 
-This project applies data modelling and relational database concepts to complete a data engineering project
+**This project applies data modelling and relational database concepts to complete a data engineering project
 
-##Project Objectives:
+*Project Objectives:
 
 1.Create tables in Postgres using python
 
