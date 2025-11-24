@@ -34,3 +34,4 @@ Before undertaking this projecct revision of the following concepts is advised:
 
 
 All prompts say for password are kepts at default.
+ if you want to see the databases you have cretaed on SQL Shell use the command: \l
